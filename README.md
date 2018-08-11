@@ -13,7 +13,7 @@ Learning-DeepLearning
 >https://github.com/aleju/imgaug
 
 caffe相关<br>
-安装<br>
+>安装<br>
 >https://www.linuxidc.com/Linux/2017-01/139313p2.htm<br>
 >https://www.cnblogs.com/AbcFly/p/6306201.html<br>
 caffe实现yolov3<br>
@@ -35,7 +35,7 @@ cmake安装方法<br>
 >https://www.cnblogs.com/freshmen/p/6506053.html
 
 mace相关--小米深度学习框架<br>
-中文翻译<br>
+>中文翻译<br>
 >https://www.showdoc.cc/web/#/mace?page_id=575412381009217<br>
 源码解读<br>
 >https://www.jianshu.com/nb/27109636<br>
