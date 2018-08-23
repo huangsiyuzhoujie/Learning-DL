@@ -1,5 +1,7 @@
 Learning-DeepLearning
 =====================
+cuda和cudnn安装<br>
+>https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html
 
 训练样本-将xml文件转化为txt文件<br>
 >https://blog.csdn.net/shangpapa3/article/details/77483324
@@ -20,6 +22,23 @@ caffe实现yolov3<br>
 >https://blog.csdn.net/maweifei/article/details/81066578<br>
 caffe移植到arm<br>
 >https://blog.csdn.net/q6324266/article/details/74563618
+
+pytorch相关<br>
+>入门教程<br>
+>https://www.jianshu.com/u/5e2b32ff790c<br>
+>https://blog.csdn.net/zzlyw/article/category/6527133<br>
+>中文文档<br>
+>https://ptorch.com/docs/8<br>
+>中文教程---很多实例(使用pytorch实现yolov3等)<br>
+>http://www.pytorchtutorial.com/<br>
+>http://pytorch.apachecn.org/cn/tutorials/beginner/pytorch_with_examples.html 包括60分钟快速入门<br>
+>caffe2官方教程<br>
+>https://caffe2.ai/docs/getting-started.html?platform=ubuntu&configuration=compile#install-with-gpu-support<br>
+>pytorch相关问题解答社区<br>
+>https://github.com/pytorch/pytorch/issues?utf8=%E2%9C%93&q=onnx_caffe2
+
+码与开源<br>
+>https://gitee.com/herensheng/Pytorch2caffe2
 
 yolov3批处理样本--测试<br>
 >http://baijiahao.baidu.com/s?id=1601053158190529853&wfr=spider&for=pc
