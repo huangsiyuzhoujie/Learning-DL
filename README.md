@@ -53,6 +53,9 @@ yolov3批处理样本--测试<br>
 cmake安装方法<br>
 >https://www.cnblogs.com/freshmen/p/6506053.html
 
+np中axis解释<br>
+>https://blog.csdn.net/xiongchengluo1129/article/details/79062991
+
 mace相关--小米深度学习框架<br>
 >中文翻译<br>
 >https://www.showdoc.cc/web/#/mace?page_id=575412381009217<br>
