@@ -34,6 +34,8 @@ pytorch相关<br>
 >http://pytorch.apachecn.org/cn/tutorials/beginner/pytorch_with_examples.html 包括60分钟快速入门<br>
 >caffe2官方教程<br>
 >https://caffe2.ai/docs/getting-started.html?platform=ubuntu&configuration=compile#install-with-gpu-support<br>
+>caffe2部署到android的全过程<br>
+>https://zhuanlan.zhihu.com/p/32342366<br>
 >pytorch相关问题解答社区<br>
 >https://github.com/pytorch/pytorch/issues?utf8=%E2%9C%93&q=onnx_caffe2
 
