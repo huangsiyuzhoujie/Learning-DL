@@ -21,7 +21,7 @@ caffe相关<br>
 caffe实现yolov3<br>
 >https://blog.csdn.net/maweifei/article/details/81066578<br>
 caffe移植到arm<br>
->https://blog.csdn.net/q6324266/article/details/74563618
+>https://blog.csdn.net/q6324266/article/details/74563618<br>
 >caffe博客教程<br>
 >http://www.cnblogs.com/denny402/tag/caffe/
 
