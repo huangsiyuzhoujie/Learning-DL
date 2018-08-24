@@ -23,7 +23,9 @@ caffe实现yolov3<br>
 caffe移植到arm<br>
 >https://blog.csdn.net/q6324266/article/details/74563618<br>
 >caffe博客教程<br>
->http://www.cnblogs.com/denny402/tag/caffe/
+>http://www.cnblogs.com/denny402/tag/caffe/<br>
+>caffe训练测试自己图片教程<br>
+>https://www.cnblogs.com/luludeboke/p/7813060.html
 
 pytorch相关<br>
 >入门教程<br>
