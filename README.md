@@ -1,5 +1,9 @@
 Learning-DeepLearning
 =====================
+
+博客<br>
+>https://www.cnblogs.com/missidiot/archive/2018/07.html
+
 cuda和cudnn安装<br>
 >https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html
 
@@ -45,7 +49,7 @@ pytorch相关<br>
 >pytorch到caffe转换工具<br>
 >http://www.pytorchtutorial.com/pytorch-to-caffe/
 
-码与开源<br>
+码云开源<br>
 >https://gitee.com/herensheng/Pytorch2caffe2
 
 yolov3批处理样本--测试<br>
