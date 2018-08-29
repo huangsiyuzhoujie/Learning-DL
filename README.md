@@ -70,6 +70,6 @@ mace相关--小米深度学习框架<br>
 使用实例<br>
 >https://blog.csdn.net/qq_27063119/article/details/81015227<br>
 解决mace编译库时bazel的问题<br>
->bazel clean
+>bazel clean<br>
 >删除/home/huangsiyu/.cache/bazel/文件下下的所有东西
 
