@@ -2,7 +2,9 @@ Learning-DeepLearning
 =====================
 
 博客<br>
->https://www.cnblogs.com/missidiot/archive/2018/07.html
+>https://www.cnblogs.com/missidiot/archive/2018/07.html<br>
+>squeeze与unsqueeze的用法<br>
+https://blog.csdn.net/weixin_32365557/article/details/80488965
 
 cuda和cudnn安装<br>
 >https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html
