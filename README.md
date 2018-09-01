@@ -4,7 +4,7 @@ Learning-DeepLearning
 学习中遇到的问题<br>
 >(1)import torch 与 import cv2会发生冲突，需要将import torch在import cv2之后导入。<br>
 >(2)CUDNN_STATUS_INTERNAL_ERROR 错误的解决办法<br>
->sudo rm -rf ~/.nv
+>>sudo rm -rf ~/.nv
 
 博客<br>
 >https://www.cnblogs.com/missidiot/archive/2018/07.html<br>
