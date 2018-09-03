@@ -88,3 +88,7 @@ mace相关--小米深度学习框架<br>
 >bazel clean<br>
 >删除/home/huangsiyu/.cache/bazel/文件下下的所有东西
 
+tensorflow<br>
+>tensorflow lite的预训练gg模型<br>
+>https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/lite/g3doc/models.md
+
