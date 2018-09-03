@@ -94,5 +94,7 @@ tensorflow<br>
 >tensorflow slim预训练模型<br>
 >https://github.com/tensorflow/models/tree/master/research/slim<br>
 >使用tensorflow在android上实现手势数字识别的例子<br>
->https://github.com/tz28/Chinese-number-gestures-recognition
+>https://github.com/tz28/Chinese-number-gestures-recognition<br>
+>tensorflow android 手写数字识别<br>
+>https://blog.csdn.net/guyuealian/article/details/79672257
 
