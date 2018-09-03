@@ -90,5 +90,7 @@ mace相关--小米深度学习框架<br>
 
 tensorflow<br>
 >tensorflow lite的预训练模型<br>
->https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/lite/g3doc/models.md
+>https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/lite/g3doc/models.md<br>
+>谷歌mobilenets的h介绍<br>
+https://blog.csdn.net/hjimce/article/details/72831171
 
