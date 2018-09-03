@@ -51,6 +51,8 @@ pytorch相关<br>
 >https://caffe2.ai/docs/getting-started.html?platform=ubuntu&configuration=compile#install-with-gpu-support<br>
 >caffe2部署到android的全过程<br>
 >https://zhuanlan.zhihu.com/p/32342366<br>
+>caffe2的预训练模型地址<br>
+https://github.com/caffe2/models<br>
 >pytorch相关问题解答社区<br>
 >https://github.com/pytorch/pytorch/issues?utf8=%E2%9C%93&q=onnx_caffe2<br>
 >pytorch到caffe转换工具<br>
