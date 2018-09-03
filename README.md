@@ -56,7 +56,9 @@ https://github.com/caffe2/models<br>
 >pytorch相关问题解答社区<br>
 >https://github.com/pytorch/pytorch/issues?utf8=%E2%9C%93&q=onnx_caffe2<br>
 >pytorch到caffe转换工具<br>
->http://www.pytorchtutorial.com/pytorch-to-caffe/
+>http://www.pytorchtutorial.com/pytorch-to-caffe/<br>
+>pytorch使用已有框架训练模型的总体过程介绍<br>
+>https://blog.csdn.net/u014380165/article/details/79222243
 
 码云开源<br>
 >https://gitee.com/herensheng/Pytorch2caffe2
