@@ -92,5 +92,7 @@ tensorflow<br>
 >tensorflow lite的预训练模型<br>
 >https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/lite/g3doc/models.md<br>
 >tensorflow slim预训练模型<br>
->https://github.com/tensorflow/models/tree/master/research/slim
+>https://github.com/tensorflow/models/tree/master/research/slim<br>
+>使用tensorflow在android上实现手势数字识别的例子<br>
+>https://github.com/tz28/Chinese-number-gestures-recognition
 
