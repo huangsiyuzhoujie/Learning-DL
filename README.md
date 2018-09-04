@@ -103,5 +103,6 @@ tensorflow<br>
 >https://github.com/tz28/Chinese-number-gestures-recognition<br>
 >tensorflow android 手写数字识别<br>
 >https://blog.csdn.net/guyuealian/article/details/79672257<br>
-
+>tensorflow slim的使用介绍<br>
+>https://blog.csdn.net/u014061630/article/details/80632736
 
