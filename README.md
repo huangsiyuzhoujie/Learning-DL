@@ -93,6 +93,8 @@ mace相关--小米深度学习框架<br>
 >删除/home/huangsiyu/.cache/bazel/文件下下的所有东西
 
 tensorflow<br>
+>命令行安装tensorflow<br>
+>pip install tensorflow-gpu==1.4.0 --user<br>
 >tensorflow lite的预训练模型<br>
 >https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/lite/g3doc/models.md<br>
 >tensorflow slim预训练模型<br>
@@ -100,5 +102,6 @@ tensorflow<br>
 >使用tensorflow在android上实现手势数字识别的例子<br>
 >https://github.com/tz28/Chinese-number-gestures-recognition<br>
 >tensorflow android 手写数字识别<br>
->https://blog.csdn.net/guyuealian/article/details/79672257
+>https://blog.csdn.net/guyuealian/article/details/79672257<br>
+
 
