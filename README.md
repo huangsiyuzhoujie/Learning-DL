@@ -6,7 +6,8 @@ Learning-DeepLearning
 >(2)CUDNN_STATUS_INTERNAL_ERROR 错误的解决办法<br>
 >sudo rm -rf ~/.nv<br>
 >(3)InvalidArgumentError: Expected image (JPEG, PNG, or GIF), got unknown format starting with '\000\000\000\001Bud1\000\000\020\000\000\000\010\000'<br>
->出现此错误时表示文件夹中含有其他隐藏文件，删除即可。
+>出现此错误时表示文件夹中含有其他隐藏文件，删除即可。<br>
+>(4)为了在pytorch中使用精确除法，需要使用 from __future__ import division.
 
 博客<br>
 >https://www.cnblogs.com/missidiot/archive/2018/07.html<br>
@@ -60,7 +61,9 @@ https://github.com/caffe2/models<br>
 >pytorch到caffe转换工具<br>
 >http://www.pytorchtutorial.com/pytorch-to-caffe/<br>
 >pytorch使用已有框架训练模型的总体过程介绍<br>
->https://blog.csdn.net/u014380165/article/details/79222243
+>https://blog.csdn.net/u014380165/article/details/79222243<br>
+>pytorch中个各种数据类型之间的转换<br>
+>https://blog.csdn.net/hustchenze/article/details/79154139
 
 码云开源<br>
 >https://gitee.com/herensheng/Pytorch2caffe2
