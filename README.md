@@ -1,5 +1,7 @@
 Learning-DeepLearning
 =====================
+>pytorch-new中是编译好的caffe2.<br>
+>tensorflow-new中时编译好的freeze_graph，tensorflow-hsy中是编译好的toco。<br>
 
 学习中遇到的问题<br>
 >(1)import torch 与 import cv2会发生冲突，需要将import torch在import cv2之后导入。<br>
