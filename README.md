@@ -2,6 +2,14 @@ Learning-DeepLearning
 =====================
 >pytorch-new中是编译好的caffe2.<br>
 >tensorflow-new中时编译好的freeze_graph，tensorflow-hsy中是编译好的toco。<br>
+>.pb文件，保存的是图模型的计算流程图，包括图中的常量，但不保存变量。<br>
+>.ckpt文件，保存的是图模型中的变量的值。<br>
+>.lite文件，包含图模型的计算流程图和图模型中的变量的值。<br>
+>生成litea文件的方式，通过.pb文件和.ckpt文件，进行图中的变量的固化，再生成.lite文件。<br>
+>一般tensorflow保存模型后会得到三个文件，.data,.meta,.index.<br>
+>meta文件 -- 保存graphu结构。<br>
+>data文件 -- 保存模型所有变量的值。<br>
+>index文件 -- 保存变量名。<br>
 
 学习中遇到的问题<br>
 >(1)import torch 与 import cv2会发生冲突，需要将import torch在import cv2之后导入。<br>
