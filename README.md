@@ -125,4 +125,6 @@ tensorflow<br>
 >https://blog.csdn.net/u011092156/article/details/80607601<br>
 >https://blog.csdn.net/u011092156/article/details/80642133<br>
 >从.pb文件生成quant tflite文件的命令行的顺序<br>
->https://blog.csdn.net/leifengpeng/article/details/78559208
+>https://blog.csdn.net/leifengpeng/article/details/78559208<br>
+>转化成tflite文件的方法<br>
+>https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/lite/toco/g3doc/python_api.md#example-2-export-with-variables
