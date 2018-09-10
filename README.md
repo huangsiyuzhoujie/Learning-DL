@@ -73,7 +73,8 @@ https://github.com/caffe2/models<br>
 >pytorch使用已有框架训练模型的总体过程介绍<br>
 >https://blog.csdn.net/u014380165/article/details/79222243<br>
 >pytorch中个各种数据类型之间的转换<br>
->https://blog.csdn.net/hustchenze/article/details/79154139
+>https://blog.csdn.net/hustchenze/article/details/79154139<br>
+>
 
 码云开源<br>
 >https://gitee.com/herensheng/Pytorch2caffe2
@@ -117,5 +118,11 @@ tensorflow<br>
 >tensorflow android 手写数字识别<br>
 >https://blog.csdn.net/guyuealian/article/details/79672257<br>
 >tensorflow slim的使用介绍<br>
->https://blog.csdn.net/u014061630/article/details/80632736
-
+>https://blog.csdn.net/u014061630/article/details/80632736<br>
+>tensorflow源码编译<br>
+>https://blog.csdn.net/yhily2008/article/details/79967118<br>
+>tensorflow lite安卓开发的全过程<br>
+>https://blog.csdn.net/u011092156/article/details/80607601<br>
+>https://blog.csdn.net/u011092156/article/details/80642133<br>
+>从.pb文件生成quant tflite文件的命令行的顺序<br>
+>https://blog.csdn.net/leifengpeng/article/details/78559208
