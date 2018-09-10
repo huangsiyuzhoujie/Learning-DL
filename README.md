@@ -10,6 +10,7 @@ Learning-DeepLearning
 >meta文件 -- 保存graphu结构。<br>
 >data文件 -- 保存模型所有变量的值。<br>
 >index文件 -- 保存变量名。<br>
+>(1)depthwise -- 深度可分离卷积网络，减少参数量。一般用于android应用中。<br>
 
 学习中遇到的问题<br>
 >(1)import torch 与 import cv2会发生冲突，需要将import torch在import cv2之后导入。<br>
