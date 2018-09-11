@@ -18,7 +18,9 @@ Learning-DeepLearning
 >sudo rm -rf ~/.nv<br>
 >(3)InvalidArgumentError: Expected image (JPEG, PNG, or GIF), got unknown format starting with '\000\000\000\001Bud1\000\000\020\000\000\000\010\000'<br>
 >出现此错误时表示文件夹中含有其他隐藏文件，删除即可。<br>
->(4)为了在pytorch中使用精确除法，需要使用 from __future__ import division.对于整型的tensor需要先转化为numpy类型。
+>(4)为了在pytorch中使用精确除法，需要使用 from __future__ import division.对于整型的tensor需要先转化为numpy类型。<br>
+>(5)出现image_size must contain 3 elements[4] 错误的解决方法<br>
+>有图片不是RGB格式。<br>
 
 博客<br>
 >https://www.cnblogs.com/missidiot/archive/2018/07.html<br>
