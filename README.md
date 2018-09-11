@@ -23,7 +23,12 @@ Learning-DeepLearning
 >有图片不是RGB格式。<br>
 
 tensorflow 迁移学习实现inception-v3<br>
->https://blog.csdn.net/White_Idiot/article/details/78816850
+>https://blog.csdn.net/White_Idiot/article/details/78816850<br>
+tensorflow slim fine-tune 移植到android的全过程<br>
+>https://blog.csdn.net/u011092156/article/details/80607601<br>
+>https://blog.csdn.net/u011092156/article/details/80642133<br>
+caffe 训练的所有过程<br>
+>http://www.cnblogs.com/denny402/tag/caffe/<br>
 
 博客<br>
 >https://www.cnblogs.com/missidiot/archive/2018/07.html<br>
@@ -52,8 +57,6 @@ caffe实现yolov3<br>
 >https://blog.csdn.net/maweifei/article/details/81066578<br>
 caffe移植到arm<br>
 >https://blog.csdn.net/q6324266/article/details/74563618<br>
->caffe博客教程<br>
->http://www.cnblogs.com/denny402/tag/caffe/<br>
 >caffe训练测试自己图片教程<br>
 >https://www.cnblogs.com/luludeboke/p/7813060.html
 
@@ -80,7 +83,6 @@ https://github.com/caffe2/models<br>
 >https://blog.csdn.net/u014380165/article/details/79222243<br>
 >pytorch中个各种数据类型之间的转换<br>
 >https://blog.csdn.net/hustchenze/article/details/79154139<br>
->
 
 码云开源<br>
 >https://gitee.com/herensheng/Pytorch2caffe2
@@ -127,9 +129,6 @@ tensorflow<br>
 >https://blog.csdn.net/u014061630/article/details/80632736<br>
 >tensorflow源码编译<br>
 >https://blog.csdn.net/yhily2008/article/details/79967118<br>
->tensorflow lite安卓开发的全过程<br>
->https://blog.csdn.net/u011092156/article/details/80607601<br>
->https://blog.csdn.net/u011092156/article/details/80642133<br>
 >从.pb文件生成quant tflite文件的命令行的顺序<br>
 >https://blog.csdn.net/leifengpeng/article/details/78559208<br>
 >转化成tflite文件的方法<br>
