@@ -24,11 +24,16 @@ Learning-DeepLearning
 
 tensorflow 迁移学习实现inception-v3<br>
 >https://blog.csdn.net/White_Idiot/article/details/78816850<br>
+
 tensorflow slim fine-tune 移植到android的全过程<br>
 >https://blog.csdn.net/u011092156/article/details/80607601<br>
 >https://blog.csdn.net/u011092156/article/details/80642133<br>
+
 caffe 训练的所有过程<br>
 >http://www.cnblogs.com/denny402/tag/caffe/<br>
+
+pytorch 训练并移植到android<br>
+>https://zhuanlan.zhihu.com/p/32342366<br>
 
 博客<br>
 >https://www.cnblogs.com/missidiot/archive/2018/07.html<br>
