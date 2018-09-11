@@ -33,8 +33,11 @@ caffe 训练的所有过程<br>
 >http://www.cnblogs.com/denny402/tag/caffe/<br>
 
 caffe2 学习<br>
->https://www.cnblogs.com/allcloud/p/7681966.html<br> --rumen<br>
+>入门教程<br>
+>https://www.cnblogs.com/allcloud/p/7681966.html<br>
+>官网教程<br>
 >https://caffe2.ai/docs/tutorial-MNIST.html<br>
+>博客教程<br>
 >https://blog.csdn.net/zziahgf/article/category/6925068/2<br>
 
 pytorch 训练并移植到android<br>
