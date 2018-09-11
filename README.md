@@ -22,6 +22,9 @@ Learning-DeepLearning
 >(5)出现image_size must contain 3 elements[4] 错误的解决方法<br>
 >有图片不是RGB格式。<br>
 
+tensorflow 迁移学习实现inception-v3<br>
+>https://blog.csdn.net/White_Idiot/article/details/78816850
+
 博客<br>
 >https://www.cnblogs.com/missidiot/archive/2018/07.html<br>
 >squeeze与unsqueeze的用法<br>
