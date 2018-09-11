@@ -130,4 +130,6 @@ tensorflow<br>
 >转化成tflite文件的方法<br>
 >https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/lite/toco/g3doc/python_api.md#example-2-export-with-variables<br>
 >完整的保存和载入tensorflow模型的过程<br>
->https://blog.csdn.net/tan_handsome/article/details/79303269
+>https://blog.csdn.net/tan_handsome/article/details/79303269<br>
+>tensorflow slim官方教程<br>
+>https://blog.csdn.net/u014061630/article/details/80632736#44-%E5%AE%9E%E4%BE%8B%E5%88%9B%E5%BB%BAvgg%E7%BD%91%E7%BB%9Cworking-example-specifying-the-vgg16-layers
