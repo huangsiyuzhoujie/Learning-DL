@@ -21,6 +21,7 @@ Learning-DeepLearning
 >(4)为了在pytorch中使用精确除法，需要使用 from __future__ import division.对于整型的tensor需要先转化为numpy类型。<br>
 >(5)出现image_size must contain 3 elements[4] 错误的解决方法<br>
 >有图片不是RGB格式。<br>
+>(6)python2中使用raw_input函数.<br>
 
 >--------------------------------------------------------------------------------------------------------------------------------
 
