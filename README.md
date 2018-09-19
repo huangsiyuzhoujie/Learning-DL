@@ -38,6 +38,7 @@ tensorflow lite ssd 目标检测 博客<br>
 tensorflow 目标检测移植到android的全过程<br>
 >https://github.com/Zod20/TF-Object-Detection-Demo-Daisy<br>
 >https://stackoverflow.com/questions/50330184/build-and-run-tensorflow-lite-demo-with-gradle<br>
+>https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_on_mobile_tensorflowlite.md
 
 caffe 训练的所有过程<br>
 >http://www.cnblogs.com/denny402/tag/caffe/<br>
