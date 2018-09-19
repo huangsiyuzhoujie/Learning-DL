@@ -28,12 +28,14 @@ Learning-DeepLearning
 tensorflow 迁移学习实现inception-v3<br>
 >https://blog.csdn.net/White_Idiot/article/details/78816850<br>
 
-tensorflow slim fine-tune 移植到android的全过程<br>
+tensorflow slim fine-tune 分类 移植到android的全过程<br>
 >https://blog.csdn.net/u011092156/article/details/80607601<br>
 >https://blog.csdn.net/u011092156/article/details/80642133<br>
 
 tensorflow lite ssd 目标检测<br>
 >https://segmentfault.com/a/1190000015584764<br>
+tensorflow 目标检测移植到android的全过程<br>
+>https://github.com/Zod20/TF-Object-Detection-Demo-Daisy<br>
 
 caffe 训练的所有过程<br>
 >http://www.cnblogs.com/denny402/tag/caffe/<br>
