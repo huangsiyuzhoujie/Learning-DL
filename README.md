@@ -32,8 +32,9 @@ tensorflow slim fine-tune 分类 移植到android的全过程<br>
 >https://blog.csdn.net/u011092156/article/details/80607601<br>
 >https://blog.csdn.net/u011092156/article/details/80642133<br>
 
-tensorflow lite ssd 目标检测<br>
+tensorflow lite ssd 目标检测 博客<br>
 >https://segmentfault.com/a/1190000015584764<br>
+
 tensorflow 目标检测移植到android的全过程<br>
 >https://github.com/Zod20/TF-Object-Detection-Demo-Daisy<br>
 
