@@ -160,3 +160,6 @@ tensorflow<br>
 >https://blog.csdn.net/u014061630/article/details/80632736#44-%E5%AE%9E%E4%BE%8B%E5%88%9B%E5%BB%BAvgg%E7%BD%91%E7%BB%9Cworking-example-specifying-the-vgg16-layers<br>
 >tensorflow 实现inception-v3 finetune<br>
 >https://blog.csdn.net/White_Idiot/article/details/78816850
+
+ubuntu安装qq<br>
+>https://www.jianshu.com/p/f38187cdda0f
