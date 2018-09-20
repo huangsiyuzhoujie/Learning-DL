@@ -24,6 +24,8 @@ Learning-DeepLearning
 >(6)python2中使用raw_input函数.<br>
 
 >--------------------------------------------------------------------------------------------------------------------------------
+Pelee 手机上的分类和目标检测模型<br>
+>https://github.com/Robert-JunWang/Pelee
 
 tensorflow 迁移学习实现inception-v3<br>
 >https://blog.csdn.net/White_Idiot/article/details/78816850<br>
