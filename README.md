@@ -1,7 +1,8 @@
 Learning-DeepLearning
 =====================
-吴恩达 -- 深度学习<br>
->https://github.com/fengdu78/deeplearning_ai_books
+吴恩达 -- 深度学习 -- 机器学习<br>
+>https://github.com/fengdu78/deeplearning_ai_books<br>
+>https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
 
 >pytorch-new中是编译好的caffe2.<br>
 >tensorflow-new中时编译好的freeze_graph，tensorflow-hsy中是编译好的toco。<br>
