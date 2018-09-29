@@ -1,5 +1,8 @@
 Learning-DeepLearning
 =====================
+吴恩达 -- 深度学习<br>
+>https://github.com/fengdu78/deeplearning_ai_books
+
 >pytorch-new中是编译好的caffe2.<br>
 >tensorflow-new中时编译好的freeze_graph，tensorflow-hsy中是编译好的toco。<br>
 >.pb文件，保存的是图模型的计算流程图，包括图中的常量，但不保存变量。<br>
