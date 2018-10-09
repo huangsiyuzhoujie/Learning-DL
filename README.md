@@ -1,5 +1,8 @@
 Learning-DeepLearning
 =====================
+21个项目<br>
+>https://github.com/hzy46/Deep-Learning-21-Examples
+
 吴恩达 -- 深度学习 -- 机器学习<br>
 >https://github.com/fengdu78/deeplearning_ai_books<br>
 >https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
