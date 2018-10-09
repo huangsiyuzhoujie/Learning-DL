@@ -1,12 +1,15 @@
 Learning-DeepLearning
 =====================
+tensorflow NLP<br>
+>https://github.com/zhedongzheng/finch#word-embedding%E8%AF%8D%E5%90%91%E9%87%8F
+
 奇异ai<br>
 >http://ai.loliloli.pro/
 
 各类数据集<br>
 >https://github.com/Strange-AI/datasets
 
-21个项目<br>
+21个项目 -- 代码<br>
 >https://github.com/hzy46/Deep-Learning-21-Examples
 
 吴恩达 -- 深度学习 -- 机器学习<br>
