@@ -1,5 +1,8 @@
 Learning-DeepLearning
 =====================
+奇异ai<br>
+>http://ai.loliloli.pro/
+
 各类数据集<br>
 >https://github.com/Strange-AI/datasets
 
