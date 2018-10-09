@@ -1,5 +1,8 @@
 Learning-DeepLearning
 =====================
+各类数据集<br>
+>https://github.com/Strange-AI/datasets
+
 21个项目<br>
 >https://github.com/hzy46/Deep-Learning-21-Examples
 
