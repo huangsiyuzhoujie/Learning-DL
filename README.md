@@ -1,5 +1,8 @@
 Learning-DeepLearning
 =====================
+inception-v3迁移学习例子<br>
+>https://blog.csdn.net/gaoyueace/article/details/79222225
+
 tensorflow NLP<br>
 >https://github.com/zhedongzheng/finch#word-embedding%E8%AF%8D%E5%90%91%E9%87%8F
 
