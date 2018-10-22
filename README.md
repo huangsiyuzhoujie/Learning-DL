@@ -1,5 +1,8 @@
 Learning-DeepLearning
 =====================
+keras手册<br>
+>https://keras-cn.readthedocs.io/en/latest/backend/
+
 tensorflow issue地址<br>
 >https://github.com/tensorflow/tensorflow/issues
 
