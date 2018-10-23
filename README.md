@@ -6,6 +6,9 @@ slim、keras、tensorlayer学习网址<br>
 tensorlayer中文文档<br>
 >https://tensorlayercn.readthedocs.io/zh/latest/
 
+tensorflow中文文档<br>
+>http://wiki.jikexueyuan.com/project/tensorflow-zh/
+
 keras手册<br>
 >https://keras-cn.readthedocs.io/en/latest/backend/
 
