@@ -1,5 +1,8 @@
 Learning-DeepLearning
 ====================
+在arm上使用tensorflow lite<br>
+>https://blog.csdn.net/computerme/article/details/80345065?utm_source=blogxgwz8
+
 slim、keras、tensorlayer学习网址<br>
 >https://www.jianshu.com/p/13eda2462214
 
