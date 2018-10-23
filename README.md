@@ -1,5 +1,8 @@
 Learning-DeepLearning
-=====================
+====================
+slim、keras、tensorlayer学习网址<br>
+>https://www.jianshu.com/p/13eda2462214
+
 keras手册<br>
 >https://keras-cn.readthedocs.io/en/latest/backend/
 
