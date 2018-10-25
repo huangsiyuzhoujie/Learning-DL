@@ -10,7 +10,8 @@ slim、keras、tensorlayer学习网址<br>
 >https://www.jianshu.com/p/13eda2462214
 
 tensorlayer中文文档<br>
->https://tensorlayercn.readthedocs.io/zh/latest/
+>https://tensorlayercn.readthedocs.io/zh/latest/<br>
+>https://github.com/tensorlayer/chinese-book
 
 tensorflow中文文档<br>
 >http://wiki.jikexueyuan.com/project/tensorflow-zh/
