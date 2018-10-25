@@ -1,5 +1,8 @@
 Learning-DeepLearning
 ====================
+使用pip时出现ImportError: No module named _internal<br>
+>https://blog.csdn.net/San_South/article/details/80715682
+
 在arm上使用tensorflow lite<br>
 >https://blog.csdn.net/computerme/article/details/80345065?utm_source=blogxgwz8
 
