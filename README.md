@@ -21,7 +21,8 @@ tensorflow中文文档<br>
 >http://wiki.jikexueyuan.com/project/tensorflow-zh/
 
 keras手册<br>
->https://keras-cn.readthedocs.io/en/latest/backend/
+>https://keras-cn.readthedocs.io/en/latest/backend/<br>
+>https://github.com/fchollet/keras-resources
 
 tensorflow issue地址<br>
 >https://github.com/tensorflow/tensorflow/issues
