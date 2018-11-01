@@ -1,5 +1,8 @@
 Learning-DeepLearning
 ====================
+tensorflow python api<br>
+>https://tensorflow.google.cn/api_docs/python/tf/image/adjust_brightness
+
 yolov3博客<br>
 >https://blog.csdn.net/hrsstudy/article/details/65644517
 
