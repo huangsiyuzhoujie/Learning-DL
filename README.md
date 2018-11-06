@@ -1,5 +1,8 @@
 Learning-DeepLearning
 ====================
+卷积核膨胀解析<br>
+>https://blog.csdn.net/jiongnima/article/details/69487519
+
 tensorflow目标检测api源码分析<br>
 >https://blog.csdn.net/zk_ken/article/details/80760006
 
