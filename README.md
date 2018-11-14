@@ -1,5 +1,7 @@
 Learning-DeepLearning
 ====================
+import pandas 时出现 importerror:dateutil 2.5.0 is the minimum required version 的错误，将pandas版本降低到0.22.0即可解决。
+
 目标检测网络<br>
 Mask R-CNN<br>
 >https://blog.csdn.net/WZZ18191171661/article/details/79453780<br>
