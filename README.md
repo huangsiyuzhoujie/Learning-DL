@@ -1,5 +1,8 @@
 Learning-DeepLearning
 ====================
+模型量化解释<br>
+>https://blog.csdn.net/guvcolie/article/details/81286349
+
 所有目标检测网络及github地址<br>
 >https://github.com/hoya012/deep_learning_object_detection
 
