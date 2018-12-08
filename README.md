@@ -1,5 +1,8 @@
 Learning-DeepLearning
 ====================
+所有目标检测网络及github地址<br>
+<br>https://github.com/hoya012/deep_learning_object_detection
+
 https://paperswithcode.com/
 
 import pandas 时出现 importerror:dateutil 2.5.0 is the minimum required version 的错误，将pandas版本降低到0.22.0即可解决。
