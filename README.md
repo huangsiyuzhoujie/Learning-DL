@@ -1,7 +1,7 @@
 Learning-DeepLearning
 ====================
 所有目标检测网络及github地址<br>
-<br>https://github.com/hoya012/deep_learning_object_detection
+>https://github.com/hoya012/deep_learning_object_detection
 
 https://paperswithcode.com/
 
