@@ -1,5 +1,8 @@
 Learning-DeepLearning
 ====================
+非常好的深度学习资料网站<br>
+>https://www.tinymind.cn/sites
+
 模型量化解释<br>
 >https://blog.csdn.net/guvcolie/article/details/81286349
 
