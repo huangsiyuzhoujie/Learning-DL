@@ -1,5 +1,8 @@
 Learning-DeepLearning
 ====================
+pytorch教程<br>
+>https://github.com/chenyuntc/pytorch-book
+
 非常好的深度学习资料网站<br>
 >https://www.tinymind.cn/sites
 
