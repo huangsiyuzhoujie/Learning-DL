@@ -1,5 +1,8 @@
 Learning-DeepLearning
 ====================
+ncnn 在手机上实现 ssd-mobilenet 过程<br>
+>https://github.com/chehongshu/ncnnforandroid_objectiondetection_Mobilenetssd
+
 pytorch教程<br>
 >https://github.com/chenyuntc/pytorch-book
 
