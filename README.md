@@ -1,5 +1,6 @@
 Learning-DeepLearning
 ====================
+pocketflow  auto-keras
 
 在 cuda9.0 环境下安装 opencv 时的解决问题<br>
 >https://blog.csdn.net/u014613745/article/details/78310916<br>
