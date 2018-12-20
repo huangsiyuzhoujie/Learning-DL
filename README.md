@@ -1,5 +1,10 @@
 Learning-DeepLearning
 ====================
+
+caffe 训练 mobilenet-ssd<br>
+>https://blog.csdn.net/Chris_zhangrx/article/details/80458515<br>
+>https://blog.csdn.net/weixin_39750664/article/details/82502302
+
 pocketflow  auto-keras
 
 在 cuda9.0 环境下安装 opencv 时的解决问题<br>
