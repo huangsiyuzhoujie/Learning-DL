@@ -1,6 +1,9 @@
 Learning-DeepLearning
 ====================
 
+李飞飞深度学习翻译笔记<br>
+>https://zhuanlan.zhihu.com/p/21930884
+
 caffe 训练 mobilenet-ssd<br>
 >https://blog.csdn.net/Chris_zhangrx/article/details/80458515<br>
 >https://blog.csdn.net/weixin_39750664/article/details/82502302<br>
