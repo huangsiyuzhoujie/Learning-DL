@@ -146,6 +146,7 @@ tensorflow 目标检测移植到android的全过程<br>
 
 caffe 训练的所有过程<br>
 >http://www.cnblogs.com/denny402/tag/caffe/<br>
+>http://www.cnblogs.com/luludeboke/p/7813060.html
 
 caffe2 学习<br>
 >入门教程<br>
