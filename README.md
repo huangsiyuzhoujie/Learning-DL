@@ -14,7 +14,7 @@ pocketflow  auto-keras
 
 在 cuda9.0 环境下安装 opencv 时的解决问题<br>
 >https://blog.csdn.net/u014613745/article/details/78310916<br>
->“cmake -D CMAKE_BUILD_TYPE=bulid -D CMAKE_INSTALL_PREFIX=/usr/local -D CUDA_GENERATION=Kepler ..”
+>“cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local -D CUDA_GENERATION=Kepler ..”
 
 ncnn 在手机上实现 ssd-mobilenet 过程<br>
 >https://github.com/chehongshu/ncnnforandroid_objectiondetection_Mobilenetssd
